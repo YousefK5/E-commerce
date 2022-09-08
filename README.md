@@ -3,13 +3,21 @@
 FlyBuy is An e-commerce site for the sale of computers, laptops, cameras, phones and some parts related to these devices , The site was built using Wordpress
 
 I use Open Shop Theme .. 
+
 and some plugins like as : 
--Elementor 
+
+-Elementor
+
 -Force Authentification Before Checkout for WooCommerce
+
 -Login/Signup Popup
+
 -TI WooCommerce Wishlist
+
 -Weglot Translate
+
 -Yoast SEO
+
 -WPForms Lite
 
 
