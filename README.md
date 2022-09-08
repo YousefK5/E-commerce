@@ -1,6 +1,6 @@
 # E-commerce
 
-An e-commerce site for the sale of computers, laptops, cameras, phones and some parts related to these devices
+FlyBuy is An e-commerce site for the sale of computers, laptops, cameras, phones and some parts related to these devices , using Wordpress
 
 Trello : https://trello.com/b/AdKPLu4U/e-commerce
 
